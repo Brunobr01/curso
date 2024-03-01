@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: #ff0000;
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+button{
+    font-family: "Fadimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    border-radius: 20px;
+    margin: 5px;
+}
+span{
+    font-size: 20px;
+}
+input{
+    border-radius: 20px;
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h1{
+    margin: 20px;
+}
+
+ul {
+    list-style-type: nome;
+    padding: 0;
+}
+
+.completed {
+    text-decoration: line-through;
+}
